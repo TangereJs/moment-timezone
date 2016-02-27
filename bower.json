@@ -3,7 +3,7 @@
   "description" : "Parse and display moments in any timezone.",
   "main": "builds/moment-timezone-with-data-2010-2020.js",
   "dependencies" : {
-    "moment" : ">= 2.6.0"
+    "moment" : "TangereJs/moment#master"
   },
   "ignore": [
     "**/.*",
